@@ -3,7 +3,7 @@ description: >
   Pure Dart port of NeuroKit2 ECG processing module.
   Provides ECG signal cleaning, R-peak detection, delineation,
   quality assessment, simulation, and full processing pipeline.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/mskayali/dart_ecg
 repository: https://github.com/mskayali/dart_ecg
 environment:

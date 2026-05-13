@@ -1,4 +1,4 @@
-## 0.1.0
+## 0.1.1
 
 * Initial release.
 * Complete Pure Dart implementation of NeuroKit2 ECG module.
